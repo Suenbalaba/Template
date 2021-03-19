@@ -3,3 +3,4 @@
 *.npz
 *.pyc
 __pycache
+.vscode
